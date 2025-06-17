@@ -11,7 +11,9 @@ This repository contains solutions and notes from a personal re-learning journey
 
 #### Arrays
 -intro
+
 -linear search
+
 -binary search 
 
 ## language
